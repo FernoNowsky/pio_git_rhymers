@@ -27,7 +27,7 @@ class RhymersDemo {
             System.out.println();
         }
         
-        System.out.println("total rejected is "
+        System.out.println("Total rejected is "
                 + ((HanoiRhymer) rhymers[3]).reportRejected());
         
     }
